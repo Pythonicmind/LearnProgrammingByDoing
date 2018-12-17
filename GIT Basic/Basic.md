@@ -28,7 +28,7 @@
  1) Can see the merge Conflict in the readme file
  2) Remove the merge Conflict in readme file
  3) git commit -a -m 'merge from master'
- 4)git status
+ 4) git status
 
  # Re-basing in the git-> Always rebase(update from master for latest check in)
 
