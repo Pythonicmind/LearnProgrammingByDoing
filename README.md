@@ -6,4 +6,3 @@ There are multiple programming repository for learning and creating  projects. T
     b) Test Engineers to have a first dive into programming world
     c) Make a programmer mindset
     d) Make a availability of wide open sources and free resources to the audience
-
