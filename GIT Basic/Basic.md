@@ -29,6 +29,19 @@
  2) Remove the merge Conflict in readme file
  3) git commit -a -m 'merge from master'
  4) git status
+  ## Example->
+ Checkout via command line
+ If you cannot merge a pull request automatically here, you have the option of checking it out via command line to resolve conflicts and perform a manual merge.
+
+ https://github.com/atulchauhan89/LearnProgrammingByDoing.git
+ Step 1: From your project repository, check out a new branch and test the changes.
+ git checkout -b atulchauhan89-master master
+ git pull https://github.com/atulchauhan89/LearnProgrammingByDoing.git master
+
+ Step 2: Merge the changes and update on GitHub.
+ git checkout master
+ git merge --no-ff atulchauhan89-master
+ git push origin master
 
  # Re-basing in the git-> Always rebase(update from master for latest check in)
 
