@@ -30,4 +30,7 @@
  3) git commit -a -m 'merge from master'
  4)git status
 
- # Re-basing in the git-> Always rebase(update from master for latest check in) 
+ # Re-basing in the git-> Always rebase(update from master for latest check in)
+
+# git stash-> To clean the directory
+ In situation where you have un-commited changes on your branch and you have to work on master Branch for some fix then un-commited changes will create the issue. So we will use "git stash" command to make it staging and can commit any time.
