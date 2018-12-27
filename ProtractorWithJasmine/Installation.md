@@ -15,3 +15,8 @@ npm makes it easy for JavaScript developers to share and reuse code, and makes i
  b) webdriver-manager start
     This will start up a Selenium Server and will output a bunch of info logs. Your Protractor test will send requests to this server to control a local browser. You can see information about the status of the server at
     http://localhost:4444/wd/hub.
+
+4)Now create a folder in drive and open cmd from that location. We will run "npm init" command for creating NodeJs package.json file.
+  a)package name-> protractorframework -> according to your choise
+  b)leave other options as it is if not needed at the moment
+  c)Press Yes for OK
